@@ -32,7 +32,6 @@
  
  -Mentioning end score .
  
- -Contact details need to be provided.
 
  ### Technologies used
  -**HTML**:  Provides the basic structure of the web page.
@@ -42,6 +41,10 @@
  -**JS**: Adds interactivity and functionality to the website.
 
  ### Key Insights:
- 
+ - Questions
+
+ - Options
+
+ - Score
  
  
